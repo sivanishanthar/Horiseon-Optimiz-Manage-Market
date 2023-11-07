@@ -14,4 +14,4 @@ assets/images/horiseon-demo.png
 
 ## Link to deployed application
 
-https://github.com/sivanishanthar/Horiseon-Optimiz-Manage-Market
+https://sivanishanthar.github.io/Horiseon-Optimiz-Manage-Market/
