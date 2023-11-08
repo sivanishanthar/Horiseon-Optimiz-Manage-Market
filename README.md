@@ -13,8 +13,9 @@ No need to install anyting for to use this website. You can open any web browser
 Navigate to the page
 
 you can find the screenshot of the webpage under assets folder
-
 /assets/images/horiseon-demo.png
+
+![Web Page Overview](assets/images/horiseon-demo.png)
 
 ## Link to deployed application
 
